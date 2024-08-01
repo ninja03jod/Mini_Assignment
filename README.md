@@ -17,8 +17,8 @@ Follow these steps to set up and run the FastAPI application:
    Open your terminal or command prompt and clone the repository with:
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-directory>
+   git clone https://github.com/ninja03jod/Mini_Assignment.git
+   cd Mini_Assignment
 
 # Running the Application
 
